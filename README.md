@@ -12,7 +12,7 @@ This project is a game development project of Konkuk University's Club 'Seminar 
 ## Installing
 
 ## Developer
-  - [Haruciel](https://github.com/Haruciel) - **DONGHUN LEE**
+  - [day1haru](https://github.com/day1haru) - **DONGHUN LEE**
   - [reatmos](https://github.com/reatmos) - **SEONGRYUN LEE**
   - [kimhyoj](https://github.com/kimhyoj) - **HYOJUN KIM**
   - [changryeong](https://github.com/changryeong) - **CHANGRYEONG NAM**
