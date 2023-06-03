@@ -1,2 +1,16 @@
-# seminar-project
-세미나 게임개발부의 유니티 게임 리포지토리입니다.
+# Project Suisei
+## Index
+  - [Overview](#overview) 
+  - [Installing](#installing)
+  - [Developer](#developer)
+
+## About
+This project is a game development project of Konkuk University's Club 'Seminar Game Development Group'.
+
+## Overview
+
+## Installing
+
+## Developer
+  - [Haruciel](https://github.com/Haruciel) - **DONGHUN LEE**
+  - [reatmos](https://github.com/reatmos) - **SEONGRYUN LEE**
